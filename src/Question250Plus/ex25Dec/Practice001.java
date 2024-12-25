@@ -1,7 +1,7 @@
 package Question250Plus.ex25Dec;
 
 import java.util.Scanner;
-
+// How to Take Input from Users?
 public class Practice001 {
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
