@@ -1,4 +1,4 @@
-package Question250Plus.ex25Dec;
+package Question250Plus.exDec24;
 
 import java.util.Scanner;
 // How to Take Input from Users?
