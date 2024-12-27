@@ -2,7 +2,7 @@ package Oct.ex_10102024;
 
 import java.util.Scanner;
 
-public class Lab026 {
+public class Lab026_printf {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number to print the Table");
