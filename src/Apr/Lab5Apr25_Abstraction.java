@@ -1,5 +1,5 @@
 package Apr;
-abstract class Base
+ abstract class Base
 {
     public void method1()
     {
@@ -8,16 +8,15 @@ abstract class Base
     abstract void method();
 
 }
-class Down extends Base
-{
-    public void method(){
-        System.out.println("This is Down regular method");
-    }
+
+class Down extends Base{
+     public void method(){
+         System.out.println("This is down method");
+     }
 }
-class Top extends Base
-{
+class Top extends Base{
     public void method(){
-        System.out.println("This is Top regular method");
+        System.out.println("This is top method");
     }
 }
 public class Lab5Apr25_Abstraction {
