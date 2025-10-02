@@ -15,7 +15,7 @@ public class Lab02Oct2025_Anagramchecker {
             status=java.util.Arrays.equals(arr1,arr2);
         }
         if(status){
-            System.out.println(str1+" and "+str2+" are anagram");
+            System.out.println(str1+" and "+str2+" are anagram ");
         }else{
             System.out.println(str1+" and "+str2+" are not anagram");
         }
