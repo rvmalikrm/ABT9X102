@@ -17,7 +17,7 @@ public class Lab02Oct2025_Anagramchecker {
         if(status){
             System.out.println(str1+" and "+str2+" are anagram ");
         }else{
-            System.out.println(str1+" and "+str2+" are not anagram");
+            System.out.println(str1+" and "+str2+" are not anagram ");
         }
     }
 }
