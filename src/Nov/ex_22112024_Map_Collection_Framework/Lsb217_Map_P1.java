@@ -13,7 +13,7 @@ public class Lsb217_Map_P1 {
         Map m1= new HashMap(); // Generics
         //Map<String, Object> m1 =new HashMap(); // Data type Fix
         m1.put("Name","RaviMalik");
-        m1.put("Roll NO", "123");
+        m1.put(123, "roll no");
         m1.put("Phone", "1234567");
         System.out.println(m1);
 
