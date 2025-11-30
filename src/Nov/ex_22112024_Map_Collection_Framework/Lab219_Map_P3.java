@@ -12,6 +12,7 @@ public class Lab219_Map_P3 {
         student1.put("Name", "Ravi ");
         student1.put("Phone", 787653454);
         student1.put("Addres", "Noida");
+        System.out.println(student1);
 
         Set book_read_items=new HashSet();
         book_read_items.add("Rich Dad Poor Dad");
